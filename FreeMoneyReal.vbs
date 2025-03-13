@@ -1,0 +1,1 @@
+X=MsgBox("I hacked every Device on your LAN network mwahaha",4+48,"Hacked By Tsunamii") 
